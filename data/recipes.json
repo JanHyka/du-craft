@@ -16146,8 +16146,8 @@
       "Basic Screw": 108,
       "Uncommon Screw": 108,
       "Uncommon Electronics": 125,
-      "Uncommon Antenna L": 1,
-      "Uncommon Standard Frame L": 1,
+      "Uncommon Antenna M": 1,
+      "Uncommon Standard Frame M": 1,
       "Tier 2 M Element Schematic Copy": 1
     }
   },
@@ -16447,7 +16447,7 @@
       "Uncommon LED": 18,
       "Uncommon Magnet": 25,
       "Uncommon Antenna M": 1,
-      "Uncommon Reinforced Frame M": 1,
+      "Uncommon Standard Frame M": 1,
       "Tier 3 M Element Schematic Copy": 1
     }
   },
@@ -16464,7 +16464,7 @@
       "Uncommon LED": 108,
       "Uncommon Magnet": 125,
       "Uncommon Antenna L": 1,
-      "Uncommon Reinforced Frame L": 1,
+      "Uncommon Standard Frame L": 1,
       "Tier 2 L Element Schematic Copy": 1
     }
   },
@@ -25167,7 +25167,7 @@
       "Advanced Magnet": 1,
       "Uncommon Optics": 1,
       "Al-Li Alloy": 1,
-      "Uncommon Casing S": 1,
+      "Uncommon Casing XS": 1,
       "Tier 3 Ammo XS Schematic Copy": 1
     }
   },
@@ -25184,7 +25184,7 @@
       "Advanced Magnet": 1,
       "Uncommon Optics": 1,
       "Polysulfide Plastic": 1,
-      "Uncommon Casing S": 1,
+      "Uncommon Casing XS": 1,
       "Tier 3 Ammo XS Schematic Copy": 1
     }
   },
